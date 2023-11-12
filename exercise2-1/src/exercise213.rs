@@ -1,5 +1,7 @@
 use std::io;
 
+// Write an implementation for Linear Search
+
 fn main() {
     let mut user_input = String::new();
 
